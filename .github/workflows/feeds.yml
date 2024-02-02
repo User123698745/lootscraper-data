@@ -8,6 +8,8 @@ on:
 jobs:
   master:
     uses: ./.github/workflows/_sync.yml
+    permissions:
+      contents: write
     secrets:
       base-url: https://feed.phenx.de/lootscraper_
       base-directory: feeds

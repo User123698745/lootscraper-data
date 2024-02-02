@@ -12,8 +12,6 @@ jobs:
   sync:
     name: sync data
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: download latest files
         run: |
