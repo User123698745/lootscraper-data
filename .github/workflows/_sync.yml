@@ -13,6 +13,8 @@ jobs:
     name: sync data
     runs-on: ubuntu-latest
     steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
       - name: download latest files
         run: |
           baseDirectory="${{ secrets.base-directory }}"
