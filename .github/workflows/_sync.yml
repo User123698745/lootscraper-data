@@ -1,0 +1,25 @@
+name: sync data
+
+on:
+  workflow_call:
+    secrets:
+      base-url:
+        required: true
+      base-directory:
+        required: true
+
+jobs:
+  sync:
+    name: sync data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: download latest files
+        run: |
+          baseDirectory="${{ secrets.base-directory }}"
+          find "$baseDirectory/" -type f -printf "%P\n" | while read -r file; do
+            wget "${{ secrets.base-url }}$file" -O "$baseDirectory/$file"
+          done
+      - name: commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5

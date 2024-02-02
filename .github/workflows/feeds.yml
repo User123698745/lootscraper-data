@@ -1,0 +1,13 @@
+name: feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 30 */4 * * *
+
+jobs:
+  master:
+    uses: ./.github/workflows/_sync.yml
+    secrets:
+      base-url: https://feed.phenx.de/lootscraper_
+      base-directory: feeds
