@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phenx.de/loot/epic_game</id>
   <title>Free Epic Games Games</title>
-  <updated>2024-02-15T16:05:08.828944+00:00</updated>
+  <updated>2024-02-22T16:05:08.574647+00:00</updated>
   <author>
     <name>Eiko Wagenknecht</name>
     <email>feed@ew-mail.de</email>
@@ -12,9 +12,9 @@
   <link href="https://phenx.de/loot" rel="alternate"/>
   <generator uri="https://github.com/eikowagenknecht/lootscraper">LootScraper</generator>
   <entry>
-    <id>https://phenx.de/loot/6130</id>
-    <title>Epic Games (Game) - Dakar Desert Rally</title>
-    <updated>2024-02-15T16:05:08.828944+00:00</updated>
+    <id>https://phenx.de/loot/6178</id>
+    <title>Epic Games (Game) - Super Meat Boy Forever</title>
+    <updated>2024-02-22T16:05:08.574647+00:00</updated>
     <author>
       <name>Eiko Wagenknecht</name>
       <email>feed@ew-mail.de</email>
@@ -22,28 +22,40 @@
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <img src="https://cdn1.epicgames.com/offer/ac98aa34584648f2b71152e509191c1c/EGS_DakarDesertRally_SaberPortoLtd_S6_1200x1600-9b39c1ea860c6ed7bd704bf8768563fa?h=480&amp;quality=medium&amp;resize=1&amp;w=360"/>
+        <img src="https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S1-2560x1440-76f57fe5321b054665441ce21231961e.jpg?h=480&amp;quality=medium&amp;resize=1&amp;w=854"/>
         <ul>
-          <li><b>Offer valid from:</b> 2024-02-15 - 16:05</li>
-          <li><b>Offer valid to:</b> 2024-02-22 - 16:00</li>
+          <li><b>Offer valid from:</b> 2024-02-22 - 16:05</li>
+          <li><b>Offer valid to:</b> 2024-02-29 - 16:00</li>
         </ul>
-        <p>Claim it now for free on <a href="https://store.epicgames.com/en-US/p/dakar-desert-rally">Epic Games</a>.</p>
-        <p>About the game (<b>Dakar Desert Rally</b>*):</p>
+        <p>Claim it now for free on <a href="https://store.epicgames.com/en-US/p/super-meat-boy-forever">Epic Games</a>.</p>
+        <p>About the game (<b>Super Meat Boy Forever</b>*):</p>
         <ul>
-          <li><b>Ratings:</b> <a href="https://store.steampowered.com/app/1839940">Steam 59 % (6/10, 1030 recommendations)</a> / <a href="https://www.igdb.com/games/dakar-desert-rally">IGDB Meta 47 % (1 sources)</a></li>
-          <li><b>Release date:</b> 2022-10-04</li>
-          <li><b>Recommended price (Steam):</b> 29.99 EUR</li>
-          <li><b>Description:</b> Dakar Desert Rally is the biggest and most epic off-road rally racing adventure ever developed. Experience the speed and excitement of the largest rally race on the planet, featuring a wide variety of licensed vehicles from the world’s top makers, including motorcycles, cars, trucks, quads and SSVs.</li>
-          <li><b>Genres:</b> Racing</li>
+          <li><b>Ratings:</b> <a href="https://www.metacritic.com/game/pc/super-meat-boy-forever?ftag=MCD-06-10aaa1f">Metacritic 70 %</a> / <a href="https://store.steampowered.com/app/581660">Steam 56 % (6/10, 1127 recommendations)</a> / <a href="https://www.igdb.com/games/super-meat-boy-forever">IGDB Meta 70 % (12 sources)</a> / <a href="https://www.igdb.com/games/super-meat-boy-forever">IGDB User 78 % (13 sources)</a></li>
+          <li><b>Release date:</b> 2020-12-23</li>
+          <li><b>Recommended price (Steam):</b> 16.79 EUR</li>
+          <li><b>Description:</b> Meat Boy and Bandage Girl have grown as a couple since 2010. It seems like only yesterday the two love birds were escaping from an exploding laboratory in the sky. Now it’s the current year, and they’ve welcomed their daughter Nugget into the world. Their peaceful days enjoying life as a family came to an abrupt end when Dr. Fetus beat the snot out of them with a rusty shovel, and kidnapped Nugget! Now it’s up to Meat Boy and Bandage Girl to rescue their daughter from a lunatic fetus in a jar that can only be described as an incel version of Tony Stark.
+
+- Super Meat Boy Forever is the sequel to Super Meat Boy! This is a new experience that eclipses the original. Don’t stare directly at it unless you still have your eclipse glasses.
+- 7200 individually handcrafted levels combine dynamically to give you a new challenge every single time you play. Seven thousand two hundred levels. They said we couldn’t do it, but we did. Who’s they? Don’t ask. They don’t like it when you ask.
+- It’s hard, but fair. Nothing in life worth having comes easy. Just ask Dark Soulman.
+- Meat Boy and Bandage Girl can fight back. It’s time to unleash the raw fury of parenthood on their foes just like Liam Neeson in that documentary about his family vacation in Paris.
+- Bigger boss battles than before. Your mind will be blown. Your socks will be blown off. Team Meat is not liable for any of this.
+- Brand new art with stunning detail and resolution. There are a lot of pixels in here. Grab the biggest display you have and watch those dots change color rapidly with gumption. Don’t sit too close though. (If your parents aren’t home you can sit as close as you want we won’t tell, but Team Meat is still not liable for any of this.)
+- A soundtrack composed by Ridiculon so intense that the state of Wyoming has issued a ban on all audio devices capable of playing it out of fear that just a single note will cause the dormant super volcano beneath Yellowstone to erupt ushering in a new age of darkness.
+- Frame by frame artisan crafted in game animations, and animated cutscenes that will make you experience procedurally generated emotions.
+- A story so rich and moving that it makes Citizen Kane look like an unboxing video for a dehumidifier.</li>
+          <li><b>Genres:</b> Action, Adventure, Indie</li>
         </ul>
         <p>* Any information about the offer is automatically grabbed and may in rare cases not match the correct game.</p>
         <p>
-          <small>Source: Epic Games, Seen first: 2024-02-15 16:05:08, Generated by <a href="https://github.com/eikowagenknecht/lootscraper">LootScraper</a></small>
+          <small>Source: Epic Games, Seen first: 2024-02-22 16:05:08, Generated by <a href="https://github.com/eikowagenknecht/lootscraper">LootScraper</a></small>
         </p>
       </div>
     </content>
-    <link href="https://store.epicgames.com/en-US/p/dakar-desert-rally" rel="alternate"/>
-    <category term="Genre: Racing" scheme="https://store.steampowered.com/category/" label="Racing"/>
-    <published>2024-02-15T16:05:08.828944+00:00</published>
+    <link href="https://store.epicgames.com/en-US/p/super-meat-boy-forever" rel="alternate"/>
+    <category term="Genre: Action" scheme="https://store.steampowered.com/category/" label="Action"/>
+    <category term="Genre: Adventure" scheme="https://store.steampowered.com/category/" label="Adventure"/>
+    <category term="Genre: Indie" scheme="https://store.steampowered.com/category/" label="Indie"/>
+    <published>2024-02-22T16:05:08.574647+00:00</published>
   </entry>
 </feed>
