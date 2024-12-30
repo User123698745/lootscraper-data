@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phenx.de/loot/gog_game</id>
   <title>Free GOG Games</title>
-  <updated>2024-12-19T14:45:17.581340+00:00</updated>
+  <updated>2024-12-30T08:03:32.268031+00:00</updated>
   <author>
     <name>Eiko Wagenknecht</name>
     <email>feed@ew-mail.de</email>
@@ -12,9 +12,9 @@
   <link href="https://phenx.de/loot" rel="alternate"/>
   <generator uri="https://github.com/eikowagenknecht/lootscraper">LootScraper</generator>
   <entry>
-    <id>https://phenx.de/loot/7961</id>
-    <title>GOG (Game) - Chicken Assassin: Reloaded</title>
-    <updated>2024-12-19T14:45:17.581340+00:00</updated>
+    <id>https://phenx.de/loot/8052</id>
+    <title>GOG (Game) - The Dark Eye: Chains of Satinav</title>
+    <updated>2024-12-30T08:03:32.268031+00:00</updated>
     <author>
       <name>Eiko Wagenknecht</name>
       <email>feed@ew-mail.de</email>
@@ -22,36 +22,30 @@
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <img src="https://images.gog-statics.com/f0f17f0b27325598dd79642fcbd95abb911972658c331b83ba96dba01d7bf1ef_product_card_v2_logo_480x285.png"/>
+        <img src="https://images.gog-statics.com/01f8005e27f723e5c9fe31d289bd0677120ae15c04a622d799b33a704836af02_product_card_v2_logo_480x285.png"/>
         <ul>
-          <li><b>Offer valid from:</b> 2024-12-19 - 14:45</li>
+          <li><b>Offer valid from:</b> 2024-12-30 - 08:03</li>
         </ul>
-        <p>Claim it now for free on <a href="https://www.gog.com/en/game/chicken_assassin_reloaded">GOG</a>.</p>
-        <p>About the game (<b>Chicken Assassin: Reloaded</b>*):</p>
+        <p>Claim it now for free on <a href="https://www.gog.com/en/game/the_dark_eye_chains_of_satinav">GOG</a>.</p>
+        <p>About the game (<b>The Dark Eye: Chains of Satinav</b>*):</p>
         <ul>
-          <li><b>Ratings:</b> <a href="https://store.steampowered.com/app/489610">Steam 94 % (9/10, 646 recommendations)</a> / <a href="https://www.igdb.com/games/chicken-assassin-reloaded">IGDB User 80 % (4 sources)</a></li>
-          <li><b>Release date:</b> 2016-06-27</li>
-          <li><b>Recommended price (Steam):</b> 4.99 EUR</li>
-          <li><b>Description:</b> Chicken Assassin is a fast paced action-RPG with an outrageous storyline filled with over-the-top humor that boasts a myriad of colorful enemies and visually stunning levels and environments.
+          <li><b>Ratings:</b> <a href="https://www.metacritic.com/game/pc/the-dark-eye-chains-of-satinav?ftag=MCD-06-10aaa1f">Metacritic 75 %</a> / <a href="https://store.steampowered.com/app/203830">Steam 86 % (9/10, 1847 recommendations)</a> / <a href="https://www.igdb.com/games/the-dark-eye-chains-of-satinav">IGDB User 75 % (33 sources)</a></li>
+          <li><b>Release date:</b> 2012-06-22</li>
+          <li><b>Recommended price (Steam):</b> 19.99 EUR</li>
+          <li><b>Description:</b> With a history of more than 25 years, The Dark Eye is one of Europe's best-known role-playing brands. In addition to the popular pen &amp; paper adventures, TDE has also inspired a series of successful computer games. The Dark Eye: Chains of Satinav immerses players deep in the world of Aventuria, where they experience an amazing story and explore lands never before featured in a TDE computer game.
 
-Prepare to give your hand an intense workout as you battle a slew of eclectic adversaries and encounter special bosses in this frenetically action packed game!
-
-You play as Mean Mcallister, the living embodiment of what would happen if you combined Rambo, Foghorn Leghorn, a bottle of hot sauce, and a case of energy drinks together.
-
-When the evil mastermind Spritzel and the Henchmen abduct your girlfriend, Candy, you embark on a frantic journey to save her, leaving mayhem and destruction along your path. As you progress, you can upgrade Mean with various fighting styles and skills, access an arsenal of weapons to dole out punishment, and customize clothing that boosts your stat attributes.</li>
-          <li><b>Genres:</b> Action, Casual, Indie, RPG</li>
+In Andergast, whose inhabitants are considered to be notoriously superstitious, King Efferdan awaits a state visit from high-ranking dignitaries. For centuries the kingdom has been at odds with neighboring Nostria, but now first steps are being undertaken toward a lasting peace. But a plague of crows troubles the king, for the birds are acting with unusual aggressiveness, even attacking humans. Moreover, there are those among the citizens of Andergast who swear that the crows are bringing them dark nightmares. As the belligerent creatures infiltrate even the castle itself, the king seeks a skilled bird catcher - an opportunity for young Geron to prove that the reputation for ill luck that has followed him since childhood is undeserved. Following an audience with the king, the prestigious task is assigned to him. However, not only does his task prove unexpectedly difficult, but it also turns out to be the first step of the greatest adventure of his life, which will lead him to the borders of the charted lands of Aventuria and beyond.</li>
+          <li><b>Genres:</b> Adventure, Indie</li>
         </ul>
         <p>* Any information about the offer is automatically grabbed and may in rare cases not match the correct game.</p>
         <p>
-          <small>Source: GOG, Seen first: 2024-12-19 14:45:17, Generated by <a href="https://github.com/eikowagenknecht/lootscraper">LootScraper</a></small>
+          <small>Source: GOG, Seen first: 2024-12-30 08:03:32, Generated by <a href="https://github.com/eikowagenknecht/lootscraper">LootScraper</a></small>
         </p>
       </div>
     </content>
-    <link href="https://www.gog.com/en/game/chicken_assassin_reloaded"/>
-    <category term="Genre: Action" scheme="https://store.steampowered.com/category/" label="Action"/>
-    <category term="Genre: Casual" scheme="https://store.steampowered.com/category/" label="Casual"/>
+    <link href="https://www.gog.com/en/game/the_dark_eye_chains_of_satinav"/>
+    <category term="Genre: Adventure" scheme="https://store.steampowered.com/category/" label="Adventure"/>
     <category term="Genre: Indie" scheme="https://store.steampowered.com/category/" label="Indie"/>
-    <category term="Genre: RPG" scheme="https://store.steampowered.com/category/" label="RPG"/>
-    <published>2024-12-19T14:45:17.581340+00:00</published>
+    <published>2024-12-30T08:03:32.268031+00:00</published>
   </entry>
 </feed>
