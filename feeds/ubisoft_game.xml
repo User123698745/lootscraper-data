@@ -2,13 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phenx.de/loot/ubisoft</id>
   <title>Free Ubisoft Games (PC)</title>
-  <updated>2025-02-11T00:00:23.165Z</updated>
   <author>
     <name>Eiko Wagenknecht</name>
     <email>lootscraper@eiko-wagenknecht.de</email>
-    <uri>https://eiko-wagenknecht.de</uri>
+    <uri>https://eikowagenknecht.de</uri>
   </author>
-  <link href="https://phenx.de/loot" rel="alternate"/>
+  <link href="https://github.com/eikowagenknecht/lootscraper" rel="alternate"/>
   <link href="https://feed.phenx.de/lootscraper_ubisoft_game.xml" rel="self"/>
   <generator uri="https://github.com/eikowagenknecht/lootscraper">LootScraper</generator>
 </feed>
