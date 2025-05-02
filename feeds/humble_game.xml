@@ -2,6 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phenx.de/loot/humble</id>
   <title>Free Humble Bundle Games (PC)</title>
+  <updated>1970-01-01T00:00:00.000Z</updated>
   <author>
     <name>Eiko Wagenknecht</name>
     <email>lootscraper@eiko-wagenknecht.de</email>
