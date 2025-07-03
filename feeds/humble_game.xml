@@ -4,9 +4,9 @@
   <title>Free Humble Bundle Games (PC)</title>
   <updated>1970-01-01T00:00:00.000Z</updated>
   <author>
-    <name>Eiko Wagenknecht</name>
+    <name>LootScraper</name>
     <email>lootscraper@eiko-wagenknecht.de</email>
-    <uri>https://eikowagenknecht.de</uri>
+    <uri>https://github.com/eikowagenknecht/lootscraper</uri>
   </author>
   <link href="https://github.com/eikowagenknecht/lootscraper" rel="alternate"/>
   <link href="https://feed.phenx.de/lootscraper_humble_game.xml" rel="self"/>
