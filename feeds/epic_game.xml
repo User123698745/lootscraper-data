@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://phenx.de/loot/epic</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/epic</id>
   <title>Free Epic Games Games (PC)</title>
   <updated>2025-09-04T15:05:03.116Z</updated>
   <author>
@@ -9,10 +9,10 @@
     <uri>https://github.com/eikowagenknecht/lootscraper</uri>
   </author>
   <link href="https://github.com/eikowagenknecht/lootscraper" rel="alternate"/>
-  <link href="https://feed.phenx.de/lootscraper_epic_game.xml" rel="self"/>
+  <link href="https://feed.eikowagenknecht.com/lootscraper_epic_game.xml" rel="self"/>
   <generator uri="https://github.com/eikowagenknecht/lootscraper">LootScraper</generator>
 <entry>
-  <id>https://phenx.de/loot/9451</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9451</id>
   <title>Epic Games (Game) - Monument Valley</title>
   <updated>2025-09-04T15:05:03.116Z</updated>
   <author>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://phenx.de/loot/steam</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/steam</id>
   <title>Free Steam Loot (PC)</title>
   <updated>2025-09-04T16:30:12.686Z</updated>
   <author>
@@ -9,10 +9,10 @@
     <uri>https://github.com/eikowagenknecht/lootscraper</uri>
   </author>
   <link href="https://github.com/eikowagenknecht/lootscraper" rel="alternate"/>
-  <link href="https://feed.phenx.de/lootscraper_steam_loot.xml" rel="self"/>
+  <link href="https://feed.eikowagenknecht.com/lootscraper_steam_loot.xml" rel="self"/>
   <generator uri="https://github.com/eikowagenknecht/lootscraper">LootScraper</generator>
 <entry>
-  <id>https://phenx.de/loot/9452</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9452</id>
   <title>Steam (Loot) - World of Warships - Smith Pack</title>
   <updated>2025-09-04T16:30:12.686Z</updated>
   <author>

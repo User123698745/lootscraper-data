@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://phenx.de/loot/amazon</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/amazon</id>
   <title>Free Amazon Prime Games (PC)</title>
   <updated>2025-09-04T18:01:00.909Z</updated>
   <author>
@@ -9,10 +9,10 @@
     <uri>https://github.com/eikowagenknecht/lootscraper</uri>
   </author>
   <link href="https://github.com/eikowagenknecht/lootscraper" rel="alternate"/>
-  <link href="https://feed.phenx.de/lootscraper_amazon_game.xml" rel="self"/>
+  <link href="https://feed.eikowagenknecht.com/lootscraper_amazon_game.xml" rel="self"/>
   <generator uri="https://github.com/eikowagenknecht/lootscraper">LootScraper</generator>
 <entry>
-  <id>https://phenx.de/loot/9092</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9092</id>
   <title>Amazon Prime (Game) - Boxes: Lost Fragments</title>
   <updated>2025-07-01T18:03:47.804Z</updated>
   <author>
@@ -28,7 +28,7 @@
   <published>2025-07-01T18:03:47.804Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9123</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9123</id>
   <title>Amazon Prime (Game) - Marvel's Midnight Suns</title>
   <updated>2025-07-08T08:00:19.620Z</updated>
   <author>
@@ -43,7 +43,7 @@
   <published>2025-07-08T08:00:19.620Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9163</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9163</id>
   <title>Amazon Prime (Game) - Besiege + The Splintered Sea DLC</title>
   <updated>2025-07-17T18:00:28.754Z</updated>
   <author>
@@ -56,7 +56,7 @@
   <published>2025-07-17T18:00:28.754Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9194</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9194</id>
   <title>Amazon Prime (Game) - Venba</title>
   <updated>2025-07-24T18:00:40.602Z</updated>
   <author>
@@ -69,7 +69,7 @@
   <published>2025-07-24T18:00:40.602Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9278</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9278</id>
   <title>Amazon Prime (Game) - Heroes of Loot</title>
   <updated>2025-07-31T18:00:40.817Z</updated>
   <author>
@@ -85,7 +85,7 @@
   <published>2025-07-31T18:00:40.817Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9321</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9321</id>
   <title>Amazon Prime (Game) - Sid Meier's Civilization III: Complete</title>
   <updated>2025-08-07T18:02:37.808Z</updated>
   <author>
@@ -99,7 +99,7 @@
   <published>2025-08-07T18:02:37.808Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9322</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9322</id>
   <title>Amazon Prime (Game) - Thief</title>
   <updated>2025-08-07T18:02:41.460Z</updated>
   <author>
@@ -115,7 +115,7 @@ Into this shadowy world steps Garrett, THE master thief in Thief, a reinvention 
   <published>2025-08-07T18:02:41.460Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9323</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9323</id>
   <title>Amazon Prime (Game) - The Academy: The First Riddle</title>
   <updated>2025-08-07T18:03:39.608Z</updated>
   <author>
@@ -131,7 +131,7 @@ Into this shadowy world steps Garrett, THE master thief in Thief, a reinvention 
   <published>2025-08-07T18:03:39.608Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9348</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9348</id>
   <title>Amazon Prime (Game) - Necroking</title>
   <updated>2025-08-14T18:00:29.581Z</updated>
   <author>
@@ -147,7 +147,7 @@ Into this shadowy world steps Garrett, THE master thief in Thief, a reinvention 
   <published>2025-08-14T18:00:29.581Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9349</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9349</id>
   <title>Amazon Prime (Game) - FATE: The Traitor Soul</title>
   <updated>2025-08-14T18:00:32.089Z</updated>
   <author>
@@ -164,7 +164,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-14T18:00:32.089Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9350</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9350</id>
   <title>Amazon Prime (Game) - Filthy Animals: Heist Simulator</title>
   <updated>2025-08-14T18:00:34.509Z</updated>
   <author>
@@ -181,7 +181,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-14T18:00:34.509Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9351</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9351</id>
   <title>Amazon Prime (Game) - Tin Hearts</title>
   <updated>2025-08-14T18:00:36.871Z</updated>
   <author>
@@ -196,7 +196,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-14T18:00:36.871Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9380</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9380</id>
   <title>Amazon Prime (Game) - Labyrinth City: Pierre the Maze Detective</title>
   <updated>2025-08-21T18:03:01.150Z</updated>
   <author>
@@ -212,7 +212,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-21T18:03:01.150Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9381</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9381</id>
   <title>Amazon Prime (Game) - Silver Box Classics</title>
   <updated>2025-08-21T18:03:04.307Z</updated>
   <author>
@@ -228,7 +228,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-21T18:03:04.307Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9408</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9408</id>
   <title>Amazon Prime (Game) - Fantasy Empires</title>
   <updated>2025-08-28T18:02:59.376Z</updated>
   <author>
@@ -244,7 +244,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-28T18:02:59.376Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9409</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9409</id>
   <title>Amazon Prime (Game) - Heroes of Loot 2</title>
   <updated>2025-08-28T18:03:01.829Z</updated>
   <author>
@@ -258,7 +258,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-28T18:03:01.829Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9410</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9410</id>
   <title>Amazon Prime (Game) - City Legends: The Ghost of Misty Hill: CE</title>
   <updated>2025-08-28T18:03:04.216Z</updated>
   <author>
@@ -273,7 +273,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-08-28T18:03:04.216Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9456</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9456</id>
   <title>Amazon Prime (Game) - Into the Breach</title>
   <updated>2025-09-04T18:00:55.251Z</updated>
   <author>
@@ -290,7 +290,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-09-04T18:00:55.251Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9457</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9457</id>
   <title>Amazon Prime (Game) - Sid Meier's Civilization IV: The Complete Edition</title>
   <updated>2025-09-04T18:00:57.990Z</updated>
   <author>
@@ -303,7 +303,7 @@ Seek fortune and glory within the Chamber of Trials by battling the evil that lu
   <published>2025-09-04T18:00:57.990Z</published>
 </entry>
 <entry>
-  <id>https://phenx.de/loot/9458</id>
+  <id>https://feed.eikowagenknecht.com/lootscraper/9458</id>
   <title>Amazon Prime (Game) - Dungeons &amp; Dragons: Ravenloft Series</title>
   <updated>2025-09-04T18:01:00.909Z</updated>
   <author>
